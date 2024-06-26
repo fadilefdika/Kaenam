@@ -136,7 +136,7 @@ a {
   .nav-btn-responsive {
     display: inline-flex;
     align-self: center;
-    background-image: url('../Ash Lab/home/ic-menu.svg');
+    background-image: url('../images/Home/ic-menu.svg');
     background-repeat: no-repeat;
     background-size: 24px 24px;
     background-position: right;
